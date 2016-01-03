@@ -1,0 +1,11 @@
+.middle-container {
+    width: 200px;
+    height: 200px;
+    display: table;
+}
+
+.middle-container .middle {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
